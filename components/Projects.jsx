@@ -1,10 +1,6 @@
-import Image from 'next/image';
-import Link from 'next/link';
 import React from 'react';
 import propertyImg from '../public/assets/projects/property.jpg';
 import cryptoImg from '../public/assets/projects/crypto.jpg'
-import netflixImg from '../public/assets/projects/netflix.jpg'
-import twitchImg from '../public/assets/projects/twitch.jpg'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -27,20 +23,6 @@ const Projects = () => {
             backgroundImg={cryptoImg}
             projectUrl='/'
             tech='React JS'
-
-          />
-          <ProjectItem
-            title='Netflix App'
-            backgroundImg={netflixImg}
-            projectUrl='/'
-            tech='React JS'
-
-          />
-          <ProjectItem
-            title='Twitch UI'
-            backgroundImg={twitchImg}
-            projectUrl='/'
-            tech='Next JS'
 
           />
         </div>
