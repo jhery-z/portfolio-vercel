@@ -138,7 +138,7 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold'>RCTI</span>
-            <span className='px-2'>|</span>BANTEN, INDONESIA
+            <span className='px-2'>|</span>JAKARTA, INDONESIA
           </p>
           <p className='py-1 italic'>Frontend Developer (2014 – 2017)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
