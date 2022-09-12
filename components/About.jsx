@@ -29,7 +29,7 @@ const About = () => {
             now spending my time building projects with React JS, Firebase, and
             learning new technologies.
           </p>
-          <Link href='/#projects'>
+          <Link href='https://www.batrisyiaherbal.co.id'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
               Check out some of my latest projects.
             </p>
